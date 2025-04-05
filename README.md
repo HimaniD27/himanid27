@@ -17,8 +17,7 @@
 - Database: MySql
 - Version Control: Git
 
-## Featured Work ![Profile Views](https://komarev.com/ghpvc/?username=himanid27)
-
+## Featured Work 
 ### ⚡ Market Pulse: Stock Trends, Volatility and Trading Signals
 - Built a dynamic SQL-driven analytics system to decode stock trends and market risks.
 - Designed intelligent trade signals with moving average crossovers and real-time alerts.
