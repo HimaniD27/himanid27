@@ -1,4 +1,4 @@
-## Hi there  👋, I am Himani! 
+## Hi there  👋, I am Himani!  
 
 👩🏻‍💻 Ask me or have a discussion about: Data Science, Data Analytics, Machine Learning</br>
 ⚡ Fun Fact: I thrive even in the 'boring' bits.
@@ -17,7 +17,7 @@
 - Database: MySql
 - Version Control: Git
 
-## Featured Work
+## Featured Work ![Profile Views](https://komarev.com/ghpvc/?username=himanid27)
 
 ### ⚡ Market Pulse: Stock Trends, Volatility and Trading Signals
 - Built a dynamic SQL-driven analytics system to decode stock trends and market risks.
@@ -29,6 +29,7 @@
 - Developed an SQL-powered fraud detection system to identify suspicious banking transactions.
 - Implemented advanced SQL techniques to flag high-value, duplicate, and unusual withdrawals.
 - Designed a structured fraud monitoring framework for financial security and risk mitigation.
+
 
 
 
